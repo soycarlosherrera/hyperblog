@@ -5,4 +5,6 @@ Carlos Herrera tiene 34 años y nacio en colombia
 
 main 1
 
+main 2
+
 Mañana nos enfocaremos en su vida laboral.
